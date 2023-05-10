@@ -8,3 +8,5 @@ If you plan to use python source, required libraries are async and roblox
 ``pip install async``
 and
 ``pip install roblox``
+
+If you need help, or want to report a bug, dm me on discord (x_x#0883) 
