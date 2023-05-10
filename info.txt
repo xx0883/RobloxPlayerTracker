@@ -1,0 +1,2 @@
+Replace this line with your webhook
+Replace this line with your cookie, or leave blank
