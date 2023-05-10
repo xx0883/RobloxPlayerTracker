@@ -5,6 +5,6 @@ The cookie is optional, but recommended. Without it, you will not be able to see
 
 If you plan to use python source, required libraries are async and roblox
 
-``pip install async
-
-pip install roblox``
+``pip install async``
+and
+``pip install roblox``
